@@ -1,0 +1,25 @@
+#d1{
+ background-color: gray;
+ text-align: center;
+ padding: 20px;
+}
+
+#img1{
+    width: 80px;
+    height: 80px;
+}
+
+#d2{
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;
+    text-align: center;
+}
+
+#d3{
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+    font-size: 12px;
+}
